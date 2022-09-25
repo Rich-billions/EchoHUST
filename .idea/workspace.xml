@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="HTTPSERVER" targetName="HTTPSERVER" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f84e983-4f57-4e22-9756-a272d00566d1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1UQNu6V0T2euTYSMXcz3P0fM7e9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTTPSERVER" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HTTPSERVER" TARGET_NAME="HTTPSERVER" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HTTPSERVER" RUN_TARGET_NAME="HTTPSERVER">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f84e983-4f57-4e22-9756-a272d00566d1" name="Default Changelist" comment="" />
+      <created>1575285078965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575285078965</updated>
+      <workItem from="1575285081427" duration="8785000" />
+      <workItem from="1575296782643" duration="2732000" />
+      <workItem from="1575299640375" duration="757000" />
+      <workItem from="1575362197531" duration="1415000" />
+      <workItem from="1575370065667" duration="9316000" />
+      <workItem from="1575438500382" duration="750000" />
+      <workItem from="1575439277088" duration="27000" />
+      <workItem from="1575441621240" duration="638000" />
+      <workItem from="1575446026972" duration="6234000" />
+      <workItem from="1575453360702" duration="9921000" />
+      <workItem from="1575524451632" duration="4596000" />
+      <workItem from="1575539658003" duration="5687000" />
+      <workItem from="1575551519125" duration="383000" />
+      <workItem from="1575552863887" duration="3274000" />
+      <workItem from="1575556206049" duration="5705000" />
+      <workItem from="1575606478823" duration="908000" />
+      <workItem from="1575607451445" duration="17620000" />
+      <workItem from="1575775647062" duration="1391000" />
+      <workItem from="1575778074927" duration="18154000" />
+      <workItem from="1575897598467" duration="7591000" />
+      <workItem from="1640950538031" duration="993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="470" height="455" key="GridCell.Tab.0.bottom" timestamp="1575984492877">
+      <screen x="0" y="27" width="1865" height="861" />
+    </state>
+    <state width="1032" height="486" key="GridCell.Tab.0.bottom/0.27.1078.1688@0.27.1078.1688" timestamp="1575452714645" />
+    <state width="470" height="455" key="GridCell.Tab.0.bottom/0.27.1865.861@0.27.1865.861" timestamp="1575984492877" />
+    <state width="544" height="493" key="GridCell.Tab.0.bottom/0.27.1865.899@0.27.1865.899" timestamp="1575903637141" />
+    <state width="470" height="455" key="GridCell.Tab.0.center" timestamp="1575984492875">
+      <screen x="0" y="27" width="1865" height="861" />
+    </state>
+    <state width="1032" height="486" key="GridCell.Tab.0.center/0.27.1078.1688@0.27.1078.1688" timestamp="1575452714644" />
+    <state width="470" height="455" key="GridCell.Tab.0.center/0.27.1865.861@0.27.1865.861" timestamp="1575984492875" />
+    <state width="544" height="493" key="GridCell.Tab.0.center/0.27.1865.899@0.27.1865.899" timestamp="1575903637139" />
+    <state width="470" height="455" key="GridCell.Tab.0.left" timestamp="1575984492874">
+      <screen x="0" y="27" width="1865" height="861" />
+    </state>
+    <state width="1032" height="486" key="GridCell.Tab.0.left/0.27.1078.1688@0.27.1078.1688" timestamp="1575452714644" />
+    <state width="470" height="455" key="GridCell.Tab.0.left/0.27.1865.861@0.27.1865.861" timestamp="1575984492874" />
+    <state width="544" height="493" key="GridCell.Tab.0.left/0.27.1865.899@0.27.1865.899" timestamp="1575903637138" />
+    <state width="470" height="455" key="GridCell.Tab.0.right" timestamp="1575984492876">
+      <screen x="0" y="27" width="1865" height="861" />
+    </state>
+    <state width="1032" height="486" key="GridCell.Tab.0.right/0.27.1078.1688@0.27.1078.1688" timestamp="1575452714645" />
+    <state width="470" height="455" key="GridCell.Tab.0.right/0.27.1865.861@0.27.1865.861" timestamp="1575984492876" />
+    <state width="544" height="493" key="GridCell.Tab.0.right/0.27.1865.899@0.27.1865.899" timestamp="1575903637140" />
+    <state width="1819" height="282" key="GridCell.Tab.1.bottom" timestamp="1575899658851">
+      <screen x="0" y="27" width="1865" height="899" />
+    </state>
+    <state width="1819" height="282" key="GridCell.Tab.1.bottom/0.27.1865.899@0.27.1865.899" timestamp="1575899658851" />
+    <state width="1819" height="282" key="GridCell.Tab.1.center" timestamp="1575899658849">
+      <screen x="0" y="27" width="1865" height="899" />
+    </state>
+    <state width="1819" height="282" key="GridCell.Tab.1.center/0.27.1865.899@0.27.1865.899" timestamp="1575899658849" />
+    <state width="1819" height="282" key="GridCell.Tab.1.left" timestamp="1575899658848">
+      <screen x="0" y="27" width="1865" height="899" />
+    </state>
+    <state width="1819" height="282" key="GridCell.Tab.1.left/0.27.1865.899@0.27.1865.899" timestamp="1575899658848" />
+    <state width="1819" height="282" key="GridCell.Tab.1.right" timestamp="1575899658850">
+      <screen x="0" y="27" width="1865" height="899" />
+    </state>
+    <state width="1819" height="282" key="GridCell.Tab.1.right/0.27.1865.899@0.27.1865.899" timestamp="1575899658850" />
+    <state x="337" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1575897597904">
+      <screen x="0" y="27" width="1865" height="899" />
+    </state>
+    <state x="195" y="698" key="com.intellij.ide.util.TipDialog/0.27.1078.1688@0.27.1078.1688" timestamp="1575446027742" />
+    <state x="337" y="384" key="com.intellij.ide.util.TipDialog/0.27.1865.899@0.27.1865.899" timestamp="1575897597904" />
+  </component>
+</project>

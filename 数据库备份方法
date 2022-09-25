@@ -1,0 +1,4 @@
+mysqldump -u billions -h localhost -p fleaMarket > backup.sql #备份
+
+ mysql -u billions -p fleaMarket2 < /home/billions/fleaMarket-backEnd/backup.sql  #还原
+# 执行前需要先创建dbname数据库。

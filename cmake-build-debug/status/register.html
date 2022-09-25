@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-hans">
+<head>
+    <meta charset="UTF-8">
+    <title>注册</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="common.js"></script>
+    <script>
+        window.onload = checkLog;
+    </script>
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light title">
+    <a class="navbar-brand title">二手交易平台</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item headline">
+                <a class="nav-link" href="index.html">待售商品</a>
+            </li>
+            <li class="nav-item headline">
+                <a class="nav-link" href="needs.html">需求商品</a>
+            </li>
+            <li class="nav-item headline">
+                <a class="nav-link" href="sg_publish.html">发布商品</a>
+            </li>
+            <li class="nav-item headline">
+                <a class="nav-link" href="wg_publish.html">发布需求</a>
+            </li>
+            <li class="nav-item headline">
+                <a class="nav-link" href="personal.html">个人中心</a>
+            </li>
+            <li class="nav-item headline-current">
+                <a class="nav-link" href="login.html" id="logstatus">登录/注册</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="text-center">
+    <img src="images/regist.png" style="width: 100px;margin-top: 50px">
+    <form id="regedit">
+
+        <input type="text" placeholder="请输入您的用户名" name="U_name" maxlength="150" id="U_name" style="width: 800px;margin-top: 40px" required autofocus>
+
+        <input type="text" placeholder="请输入您的QQ号" name="U_id" maxlength="11" id="U_id" style="width: 800px;margin-top: 40px" required>
+
+        <textarea placeholder="请输入您的自我介绍" name="U_info" maxlength="140" id="U_info" style="width: 800px; height: 200px; margin-top: 40px" required></textarea>
+
+        <input type="password" placeholder="请输入您的密码" name="U_password" id="U_password" style="width: 800px;margin-top: 40px" required>
+
+        <input type="password" placeholder="请再次输入您的密码" name="U_password_r" id="U_password_r" style="width: 800px;margin-top: 40px" required>
+
+    </form>
+    <button id="regform_submit" class="btn btn-lg btn-primary btn-block" style="width: 200px;margin-top: 80px;margin-left: 666px" onclick="reg()">注册</button>
+    <button id="login_account"  style="width: 150px;margin-left: 650px" onclick="window.location.href='login.html'">登录已有账号</button>
+</div>
+</body>
+</html>
